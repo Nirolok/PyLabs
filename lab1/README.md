@@ -1,9 +1,7 @@
-# Lab 1
+# PyLab 1
 
-This lab is completed using Google Colab.
+## Ссылка на Colab
 
-## Instructions
+https://colab.research.google.com/drive/1nsFnPx3hF-jL6K7JkHKO8d-viO_E9Zoa?usp=sharing
 
-1. Open the notebook in Google Colab
-2. Complete all exercises
-3. Submit the link to your completed notebook 
+
